@@ -10,7 +10,7 @@ This project demonstrates a basic 2D GPU-accelerated graphics pipeline using Web
 ## Tech Stack:
 - JavaScript + HTML5 Canvas
 - WebGL for GPU acceleration
-G- LSL shaders for vertex and fragment processing
+- GLSL shaders for vertex and fragment processing
 ## Learning Goals:
 - Understand the GPU rendering pipeline
 - Gain hands-on experience with shaders and VBOs
